@@ -1,0 +1,16 @@
+{
+  "name": "macish23-fortea",
+  "version": "1",
+  "description": "a simple npm js hello world repo I created to add to the tea protocol'",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/berattrkz23/macish23-fortea"
+  },
+  "homepage": "https://github.com/berattrkz23/macish23-fortea",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "main": "index.js",
+  "author": "Berat Türköz",
+}
